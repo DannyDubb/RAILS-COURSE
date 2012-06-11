@@ -11,6 +11,11 @@ gem 'devise'
 
 gem 'json'
 
+gem 'twitter'
+gem 'twitter-bootstrap-rails', :git => 'https://github.com/seyhunak/twitter-bootstrap-rails.git', :branch => 'static'
+
+
+
 # Gems used only for assets and not required
 # in production environments by default.
 group :assets do
